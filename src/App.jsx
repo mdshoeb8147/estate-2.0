@@ -1,8 +1,5 @@
+import "./layout.scss";
 const App = () => {
-  return (
-    <div className="layout">
-      <a href="">App</a>
-    </div>
-  );
+  return <div className="layout">Hello </div>;
 };
 export default App;
